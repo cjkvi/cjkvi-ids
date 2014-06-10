@@ -1,5 +1,6 @@
 # Copyright (c) 2014 CJKVI Database
 # Based on CHISE IDS Database
+U+03B1	α	α
 U+2E80	⺀	⿱丶丶
 U+2E82	⺂	⺂
 U+2E84	⺄	⺄
@@ -1512,7 +1513,7 @@ U+53D1	发	发
 U+53D2	叒	⿱又双
 U+53D3	叓	⿱&CDP-8DDD;又
 U+53D4	叔	⿰尗又
-U+53D5	叕	⿱双双
+U+53D5	叕	⿱双双	⿰㕛㕛
 U+53D6	取	⿰耳又[GV]	⿸耳又[TJK]
 U+53D7	受	⿱&CDP-8BB8;又
 U+53D8	变	⿱亦又
@@ -20958,6 +20959,36 @@ U+9FC7	鿇	⿰亻争
 U+9FC8	鿈	⿰彳尺
 U+9FCA	鿊	⿱艹沚
 U+9FCB	鿋	⿰衤喜
+U+9FCC	鿌	⿰氵亰
+U+9FCD	鿍	⿰土夅
+U+9FCE	鿎	⿰石达
+U+9FCF	鿏	⿰金麦
+U+9FD0	鿐	⿰魚酒
+U+9FD1	鿑	⿰冫玉
+U+9FD2	鿒	⿱艹页
+U+9FD3	鿓	⿱艹頁
+U+9FD4	鿔	⿰钅哥
+U+9FD5	鿕	⿰鱼丹
+U+9FD6	鿖	⿱合一
+U+9FD7	鿗	⿳𠆢伊一
+U+9FD8	鿘	⿰伊合
+U+9FD9	鿙	⿰伊克
+U+9FDA	鿚	⿰伊格
+U+9FDB	鿛	⿰凌爾
+U+9FDC	鿜	⿰拉爾
+U+9FDD	鿝	⿰楞爾
+U+9FDE	鿞	⿰列爾
+U+9FDF	鿟	⿰利尔
+U+9FE0	鿠	⿰利爾
+U+9FE1	鿡	⿰羅爾
+U+9FE2	鿢	⿰耶合
+U+9FE3	鿣	⿰耶克
+U+9FE4	鿤	⿰耶格
+U+9FE5	鿥	⿰郎爾
+U+9FE6	鿦	⿰英微
+U+9FE7	鿧	⿰隆爾
+U+9FE8	鿨	⿰雷爾
+U+9FE9	鿩	⿰魯爾
 ;; -*- coding: utf-8-mcs-er -*-
 U+3400	㐀	⿱卝一
 U+3401	㐁	㐁
@@ -75112,13 +75143,13 @@ U+2B92C	𫤬	⿴&CDP-89AE;八
 U+2B92D	𫤭	⿳丿冈⿱一八
 U+2B92E	𫤮	⿱八⿻𦥑丨
 U+2B92F	𫤯	⿰参八
-U+2B930	𫤰	⿱⿲〢&CDP-8BC2;⺕一八
+U+2B930	𫤰	⿳⿲〢&CDP-8BC2;⺕一八
 U+2B931	𫤱	⿰其丮
 U+2B932	𫤲	⿱八啚
 U+2B933	𫤳	⿰⿱丷⿳⿴&CDP-8BC8;丨日旡末
 U+2B934	𫤴	⿰其章
 U+2B935	𫤵	⿱𤕰𪦾
-U+2B936	𫤶	⿳戠𬐧
+U+2B936	𫤶	⿱戠𬐧
 U+2B937	𫤷	⿰岡去
 U+2B938	𫤸	⿳冖一见
 U+2B939	𫤹	⿱冖辰
@@ -76465,7 +76496,7 @@ U+2BE75	𫹵	⿱元心
 U+2BE76	𫹶	⿰忄少
 U+2BE77	𫹷	⿰忄双
 U+2BE78	𫹸	⿰⿱厶心⿹𠃌一
-U+2BE79	𫹹	⿱⿰厶⿹𠃌心
+U+2BE79	𫹹	⿱⿰厶⿹𠃌一心
 U+2BE7A	𫹺	⿰忄石
 U+2BE7B	𫹻	⿱未心
 U+2BE7C	𫹼	⿰忄东
@@ -77593,7 +77624,7 @@ U+2C2DD	𬋝	⿱㣈火
 U+2C2DE	𬋞	⿰火麗
 U+2C2DF	𬋟	⿰火⿱日⿳冖&CDP-8CA3;𧘇
 U+2C2E0	𬋠	⿱譶火
-U+2C2E1	𬋡	⿳𦥯𤍾
+U+2C2E1	𬋡	⿱𦥯𤍾
 U+2C2E2	𬋢	⿱⿰禾？火
 U+2C2E3	𬋣	⿳霝龜火
 U+2C2E4	𬋤	⿺爪冗
@@ -81690,7 +81721,6 @@ CDP-8BE2	&CDP-8BE2;	⿱口一
 CDP-8BE8	&CDP-8BE8;	⿻日乚
 CDP-8BEA	&CDP-8BEA;	&CDP-8BEA;
 CDP-8BEC	&CDP-8BEC;	⿱&CDP-8BAE;冖
-
 CDP-8BF1	&CDP-8BF1;	⿻二丨
 CDP-8BF4	&CDP-8BF4;	⿲幺白幺
 CDP-8BF5	&CDP-8BF5;	⿰丿丨
