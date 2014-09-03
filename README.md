@@ -1,14 +1,25 @@
 IDS data
 ========
 
-This is a collection of various IDS data.
+This is a collection of various IDS (Ideographic Description Sequence)
+data.
 
 ## Description
 
-* Compatibility ideographs whose IDS is not equal to corresponding
-  unified ideographs may be used as DC.
+IDS (Ideographic Description Sequence) is quite important information
+for ideographs. Among thousands of ideographs encoded, such data can
+be an useful clue to identify them.
+
+However, as there may be ambiguity for encoding IDS, some tools to
+normalize and identify the ideographs would be important.
+[IDS tool](http://github.com/kawabata/ids) is one of such example.
 
 ## Encoding Policies
+
+There are some encoding policies for IDS.
+
+* Compatibility ideographs whose IDS is not equal to corresponding
+  unified ideographs may be used as DC.
 
 * Following non-ideographs may be used as DCs (for now).
   "αℓ△⺀⺄⺆⺈⺊⺌⺍⺶⺸⺻⺼〇〢キサ㇀㇉㇢"
