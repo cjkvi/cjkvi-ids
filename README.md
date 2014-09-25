@@ -6,17 +6,21 @@ data.
 
 ## Description
 
-IDS (Ideographic Description Sequence) is quite important information
-for ideographs. Among thousands of ideographs encoded, such data can
-be an useful clue to identify them.
+IDS (Ideographic Description Sequence) is a way to describe the
+structure of CJK Unified ideographs.
 
-However, as there may be ambiguity for encoding IDS, some tools to
-normalize and identify the ideographs would be important.
+The IDS consists of IDCs (Ideographic Description Characters), namely
+"⿰" (U+2FF0) to "⿻" (U+2FFB), and DCs (Description Characters), that
+are usually ideographs.
+
+IDS is quite important information for ideographs, as it may be
+possible to identify ideographs from them.
+
+However, there may be ambiguity for encoding IDS. Therefore, tools to
+normalize IDS and identify the ideographs would be important.
 [IDS tool](http://github.com/kawabata/ids) is one of such example.
 
 ## Encoding Policies
-
-There are some encoding policies for IDS.
 
 * Compatibility ideographs whose IDS is not equal to corresponding
   unified ideographs may be used as DC.
@@ -30,7 +34,7 @@ There are some encoding policies for IDS.
 
 * '&CDP-XXXX;' entity reference notation (CDP stands for "Chinese
   Document Processing lab") is inherited from [CHISE
-  project](http://www.chise.org). For details of useable entity
+  project](http://www.chise.org). For details of usable entity
   references, refer [an article on
   CDP](http://glyphwiki.org/wiki/Group:CDP%E5%A4%96%E5%AD%97) at
   GlyphWiki. They can be converted to Unicode BMP PUA (Privae Use
