@@ -22,8 +22,8 @@ normalize IDS and identify the ideographs would be important.
 
 ## Encoding Policies
 
-* Compatibility ideographs whose IDS is not equal to corresponding
-  unified ideographs may be used as DC.
+* Compatibility ideographs, whose IDS is not equal to their
+  corresponding unified ideographs, may be used as DCs. (e.g. ⻀)
 
 * Following non-ideographs may be used as DCs (for now).
   "αℓ△⺀⺄⺆⺈⺊⺌⺍⺶⺸⺻⺼〇〢キサ㇀㇉㇢"
@@ -42,9 +42,6 @@ normalize IDS and identify the ideographs would be important.
   table](http://kanji-database.sourceforge.net/charcode/big5.html),
   and HanaMinAFDKO Font support these glyphs in PUA.
 
-* Compatibility ideographs, whose IDS is not equal to its
-  corresponding unified ideographs, may be used as DCs. (e.g. ⻀)
-
 * IDS of compatibility ideographs may sometimes have compatibility
   ideographs as DCs, by mean of clarifying the difference of their
   structures compared with corresponding unified ideographs.
@@ -53,8 +50,8 @@ normalize IDS and identify the ideographs would be important.
   that such IDS is specific to each columns of UCS code charts. "A"
   indicates AJ1-6 shapes, and "X" indicates virtual shape that is not
   actually appeared in the UCS specification, but possibly matches to
-  that code points according to Annex S of UCS. Many of them appear
-  in Japanese dictionaries such as Dai-Kanwa Jiten.
+  that code points according to Annex S of UCS. Some of them may
+  appear in several dictionaries such as Dai-Kanwa-Jiten.
 
 ## Licenses
 
