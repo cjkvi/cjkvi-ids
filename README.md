@@ -50,8 +50,9 @@ normalize IDS and identify the ideographs would be important.
   that such IDS is specific to each columns of UCS code charts. "A"
   indicates AJ1-6 shapes, and "X" indicates virtual shape that is not
   actually appeared in the UCS specification, but possibly matches to
-  that code points according to Annex S of UCS. Some of them may
-  appear in several dictionaries such as Dai-Kanwa-Jiten.
+  that code points according to Annex S of UCS. Some of such shapes
+  may appear in OS-equipped fonts such as MingLiu, MS-Mincho and
+  SimSun, or several dictionaries such as Dai-Kanwa-Jiten.
 
 ## Licenses
 
