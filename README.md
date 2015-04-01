@@ -26,7 +26,7 @@ normalize IDS and identify the ideographs would be important.
   corresponding unified ideographs, may be used as DCs. (e.g. ⻀)
 
 * Following non-ideographs may be used as DCs (for now).
-  "αℓ△⺀⺄⺆⺈⺊⺌⺍⺶⺸⺻⺼〇〢キサ㇀㇉㇢"
+  "αℓ△⺀⺄⺆⺈⺊⺌⺍⺶⺸⺻⺼〇〢キサ㇀㇉㇢㇞"
 
 * Encircled numerics ① ～ ⑳ represents unencoded DCs. Number denotes
   its stroke count. This would be useful when calculating total
