@@ -57,7 +57,9 @@ normalize IDS and identify the ideographs would be important.
 ## Licenses
 
 * 'ids.txt' is derived from [CHISE project](http://www.chise.org/).
-  License follows their terms.
+  License follows their terms. 'ids-ext-cde.txt' is not directly based
+  on [CHISE project](http://www.chise.org/), and is not restricted to
+  GPLv2 license.
 
 * All other data are distributed uner GPLv2.
 
