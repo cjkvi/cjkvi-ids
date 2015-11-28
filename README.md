@@ -23,7 +23,10 @@ normalize IDS and identify the ideographs would be important.
 ## Encoding Policies
 
 * Compatibility ideographs, whose IDS is not equal to their
-  corresponding unified ideographs, may be used as DCs. (e.g. ⻀)
+  corresponding unified ideographs, may be used as DCs. When there are
+  multiple compatibility ideographs with the same IDS, then the
+  one with smaller character code will be used.
+  (e.g. ⻀,並,荒,冗,叟,切,巢,廾,戛,桒,甾,𤾡,舁,蕤,貫,黾)
 
 * Following non-ideographs may be used as DCs (for now).
   "αℓ△⺀⺄⺆⺈⺊⺌⺍⺶⺸⺻⺼〇〢キサ㇀㇉㇢㇞"
