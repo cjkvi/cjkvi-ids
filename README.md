@@ -33,17 +33,20 @@ normalize IDS and identify the ideographs would be important.
 
 * Encircled numerics ① ～ ⑳ represents unencoded DCs. Number denotes
   its stroke count. This would be useful when calculating total
-  strokes of ideographs.
+  strokes of ideographs. Such convention does not conform with Annex I
+  of ISO/IEC 10646, so please replace them with wildcard character `？'
+  (U+FF1F) if you need strict conformance with UCS standard.
 
-* '&CDP-XXXX;' entity reference notation (CDP stands for "Chinese
-  Document Processing lab") is inherited from [CHISE
-  project](http://www.chise.org). For details of usable entity
-  references, refer [an article on
-  CDP](http://glyphwiki.org/wiki/Group:CDP%E5%A4%96%E5%AD%97) at
-  GlyphWiki. They can be converted to Unicode BMP PUA (Privae Use
-  Area) characters by Microsoft [Big5 to PUA conversion
-  table](http://kanji-database.sourceforge.net/charcode/big5.html),
-  and HanaMinAFDKO Font support these glyphs in PUA.
+* IDS data with postfix "-cdp.txt" uses PUA characters from CDP (CDP
+  stands for "Chinese Document Processing lab"). At the end of
+  "ids-cdp.txt", mapping between PUA and CDP references are
+  enumerated. For details of usable PUA characters, refer
+  [an article on CDP](http://glyphwiki.org/wiki/Group:CDP%E5%A4%96%E5%AD%97)
+  at GlyphWiki. Hexadecmail numbers and Unicode BMP PUA (Privae Use
+  Area) relation ship is based on EUDC codepoints defined by by
+  Microsoft
+  [Big5 to PUA conversion table](http://kanji-database.sourceforge.net/charcode/big5.html).
+  HanaMinAFDKO Font support these glyphs in PUA.
 
 * IDS of compatibility ideographs may sometimes have compatibility
   ideographs as DCs, by mean of clarifying the difference of their
