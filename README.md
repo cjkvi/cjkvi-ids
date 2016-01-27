@@ -35,18 +35,20 @@ normalize IDS and identify the ideographs would be important.
   its stroke count. This would be useful when calculating total
   strokes of ideographs. Such convention does not conform with Annex I
   of ISO/IEC 10646, so please replace them with wildcard character `？'
-  (U+FF1F) if you need strict conformance with UCS standard.
+  (U+FF1F) if you need strict conformance with the UCS standard.
 
-* IDS data with postfix "-cdp.txt" uses PUA characters from CDP (CDP
-  stands for "Chinese Document Processing lab"). At the end of
-  "ids-cdp.txt", mapping between PUA and CDP references are
-  enumerated. For details of usable PUA characters, refer
+* IDS data file with name postfix "*-cdp.txt" adopts PUA characters
+  from CDP (CDP stands for "Chinese Document Processing lab") as DCs.
+
+  At the end of "ids-cdp.txt", mappings between PUA DCs and CDP
+  references are enumerated. For details of usable PUA characters,
+  refer
   [an article on CDP](http://glyphwiki.org/wiki/Group:CDP%E5%A4%96%E5%AD%97)
-  at GlyphWiki. Hexadecmail numbers and Unicode BMP PUA (Privae Use
-  Area) relation ship is based on EUDC codepoints defined by by
-  Microsoft
+  at GlyphWiki. CDP's hexadecmail numbers and Unicode BMP PUA
+  character code relationship is based on EUDC codepoints defined by
+  by Microsoft
   [Big5 to PUA conversion table](http://kanji-database.sourceforge.net/charcode/big5.html).
-  HanaMinAFDKO Font support these glyphs in PUA.
+  HanaMinAFDKO Font supports these glyphs in PUA.
 
 * IDS of compatibility ideographs may sometimes have compatibility
   ideographs as DCs, by mean of clarifying the difference of their
@@ -57,8 +59,8 @@ normalize IDS and identify the ideographs would be important.
   indicates AJ1-6 shapes, and "X" indicates virtual shape that is not
   actually appeared in the UCS specification, but possibly matches to
   that code points according to Annex S of UCS. Some of such shapes
-  may appear in OS-equipped fonts such as MingLiu, MS-Mincho and
-  SimSun, or several dictionaries such as Dai-Kanwa-Jiten.
+  may appear in OS-equipped fonts such as MingLiu, MS-Mincho or
+  SimSun, or several famous dictionaries such as "Dai Kanwa Jiten".
 
 ## Licenses
 
