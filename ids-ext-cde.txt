@@ -5066,7 +5066,7 @@ U+2BAD3	𫫓	⿰口掂
 U+2BAD4	𫫔	⿰口掛
 U+2BAD5	𫫕	⿰口𬂹
 U+2BAD6	𫫖	⿰口悪
-U+2BAD7	𫫗	⿰口覔
+U+2BAD7	𫫗	⿰口⿱不貝
 U+2BAD8	𫫘	⿰否否
 U+2BAD9	𫫙	⿰口欵
 U+2BADA	𫫚	⿰口莟
