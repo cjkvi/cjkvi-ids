@@ -20970,7 +20970,7 @@ U+9FB6	龶	龶
 U+9FB7	龷	⿱卄一
 U+9FB8	龸	⿱⺌冖
 U+9FB9	龹	⿱丷夫
-U+9FBA	龺	⿳十日十
+U+9FBA	龺	⿱十早
 U+9FBB	龻	⿲糸言糸
 U+9FBC	龼	⿰土睿
 U+9FBD	龽	⿰火魚
@@ -26629,7 +26629,7 @@ U+49E6	䧦	⿰阝爲
 U+49E7	䧧	⿰阝義
 U+49E8	䧨	⿰阝業
 U+49E9	䧩	⿰阝敢
-U+49EA	䧪	⿰阝⿸广⿱夾女
+U+49EA	䧪	⿰阝⿸𢈙女
 U+49EB	䧫	⿰阝豪
 U+49EC	䧬	⿰阝賓
 U+49ED	䧭	⿰阝⿱⿱丿⿴囗𠂭心
@@ -30820,7 +30820,7 @@ U+20AB5	𠪵	⿸厂⿱共重
 U+20AB6	𠪶	⿸厂⿱死豆
 U+20AB7	𠪷	⿸厂暈
 U+20AB8	𠪸	⿸厂葉
-U+20AB9	𠪹	⿸厂⿱&CDP-88DD;𤬦
+U+20AB9	𠪹	⿸厂⿱&CDP-88DD;𤬦	⿸厂甍[X]
 U+20ABA	𠪺	⿸厤分
 U+20ABB	𠪻	⿰𠂬尃
 U+20ABC	𠪼	⿸厂⿰幸艮
@@ -73175,7 +73175,7 @@ U+2B04B	𫁋	⿱穴冋
 U+2B04C	𫁌	⿱穴再
 U+2B04D	𫁍	⿱穴朱
 U+2B04E	𫁎	⿰空孔
-U+2B04F	𫁏	⿳穴八禾
+U+2B04F	𫁏	⿱穴𪜱
 U+2B050	𫁐	⿱穴妙
 U+2B051	𫁑	⿱穴忠
 U+2B052	𫁒	⿱穴隹
@@ -73328,7 +73328,7 @@ U+2B0E4	𫃤	⿰糸汝
 U+2B0E5	𫃥	⿰糸足
 U+2B0E6	𫃦	⿰糸𫨶
 U+2B0E7	𫃧	⿰糸龟
-U+2B0E8	𫃨	⿰糸⿱丷电
+U+2B0E8	𫃨	⿰糸⿱丷&CDP-8BE8;
 U+2B0E9	𫃩	⿰糸妞
 U+2B0EA	𫃪	⿰糸⿳亠山仒
 U+2B0EB	𫃫	⿰糸𥐧
@@ -81921,7 +81921,7 @@ CDP-89DF	&CDP-89DF;	&CDP-89DF;
 CDP-89E0	&CDP-89E0;	&CDP-89E0;
 CDP-89E1	&CDP-89E1;	⿸㇇丶
 CDP-89E2	&CDP-89E2;	⿻冖丿
-CDP-89E3	&CDP-89E3;	&CDP-89E3;
+CDP-89E3	&CDP-89E3;	⿷匚一
 CDP-89E4	&CDP-89E4;	&CDP-89E4;
 CDP-89E5	&CDP-89E5;	⿻十&CDP-8BAB;
 CDP-89E7	&CDP-89E7;	⿻日乂
@@ -82129,7 +82129,7 @@ CDP-8DBA	&CDP-8DBA;	&CDP-8DBA;
 CDP-8DBB	&CDP-8DBB;	⿱口𠕁
 CDP-8DBC	&CDP-8DBC;	⿰氵刅
 CDP-8DBF	&CDP-8DBF;	⿹&CDP-8BBF;灬
-CDP-8DC1	&CDP-8DC1;	&CDP-8DC1;
+CDP-8DC1	&CDP-8DC1;	⿻匚一
 CDP-8DC3	&CDP-8DC3;	⿳里儿土
 CDP-8DC9	&CDP-8DC9;	⿹勹丿
 CDP-8DD1	&CDP-8DD1;	⿳山一糸
