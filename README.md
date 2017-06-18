@@ -62,7 +62,9 @@ normalize IDS and identify the ideographs would be important.
   actually appeared in the UCS specification, but possibly matches to
   that code points according to the Annex S of UCS. Some of such
   shapes may appear in OS-equipped fonts such as MingLiu, MS-Mincho or
-  SimSun, or famous dictionaries such as "Dai Kanwa Jiten".
+  SimSun, or famous dictionaries such as "Dai Kanwa Jiten". "O"
+  indicates "obsolete", that was once appeared in older edition of the
+  UCS standard, but no longer.
 
 ## Licenses
 
