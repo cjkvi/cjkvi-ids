@@ -39,8 +39,9 @@ normalize IDS and identify the ideographs would be important.
   UCS standard.
 
 * IDS data file with name postfix "*-cdp.txt" adopts PUA characters
-  from CDP (CDP stands for "Chinese Document Processing lab") as DCs.
-  They are deonted as entity reference like "&CDP-xxxx;".
+  from [CDP](https://www.sinica.edu.tw/~cdp) (CDP stands for "Chinese
+  Document Processing lab" at Academia Sinica) as DCs. They are
+  deonted as entity reference like "&CDP-xxxx;".
 
   At the end of "ids-cdp.txt", mappings between PUA DCs and CDP
   references are enumerated. For details of usable PUA characters,
