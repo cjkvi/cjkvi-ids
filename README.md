@@ -20,6 +20,12 @@ However, there may be ambiguity for encoding IDS. Therefore, tools to
 normalize IDS and identify the ideographs would be important.
 [IDS tool](http://github.com/kawabata/ids) is one of such example.
 
+Also, IDS sequences use full range of CJK ideographs, so the fonts
+that covers all encoded ideographs (such
+as [HanaMin](http://fonts.jp/hanazono/)
+or [Hanamin AFDKO](https://github.com/cjkvi/HanaMinAFDKO/releases) )
+should be used.
+
 ## Encoding Policies
 
 * Compatibility ideographs, whose IDSes are not equal to their
