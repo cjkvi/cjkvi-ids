@@ -4127,7 +4127,7 @@ U+5DE7	巧	⿰工丂
 U+5DE8	巨	巨
 U+5DE9	巩	⿰工凡[G]	⿰工卂[TJ]
 U+5DEA	巪	⿱巨𠃍
-U+5DEB	巫	⿱一&CDP-8579;
+U+5DEB	巫	⿻工从	⿱一&CDP-8579;
 U+5DEC	巬	⿱⿰工几夫
 U+5DED	巭	⿱功夫
 U+5DEE	差	⿸羊工[G]	⿸&CDP-8CCC;工[TJKV]
