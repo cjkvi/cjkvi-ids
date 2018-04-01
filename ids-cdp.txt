@@ -20724,7 +20724,7 @@ U+9EBF	麿	⿸麻吕[G]	⿸麻呂[TJK]
 U+9EC0	黀	⿸麻取
 U+9EC1	黁	⿸麻香
 U+9EC2	黂	⿸麻賁[GT]	⿸麻賁[K]
-U+9EC3	黃	⿱廿&CDP-8CE6;[GK]	⿳廿&CDP-8D5E;八[T]
+U+9EC3	黃	⿱廿&CDP-8CE6;[GJK]	⿳廿&CDP-8D5E;八[T]
 U+9EC4	黄	⿳龷由八[GJ]	⿳龷田八[TV]
 U+9EC5	黅	⿰黄今[G]	⿰黃今[TK]
 U+9EC6	黆	⿰黄冘[G]	⿰黃冘[TJK]
