@@ -20730,9 +20730,9 @@ U+9EC6	黆	⿰黄冘[G]	⿰黃冘[TJK]
 U+9EC7	黇	⿰黄占[G]	⿰黃占[T]
 U+9EC8	黈	⿰黄主[G]	⿰黃主[TJK]
 U+9EC9	黉	⿳𭕄冖黄
-U+9ECA	黊	⿰黄圭
-U+9ECB	黋	⿺光黃
-U+9ECC	黌	⿱𦥯黃
+U+9ECA	黊	⿰黄圭[G]	⿰黃圭[T]
+U+9ECB	黋	⿺光黄[G]	⿺光黃[TJ]
+U+9ECC	黌	⿱𦥯黄[G]	⿱𦥯黃[TJK]
 U+9ECD	黍	⿱禾⿱人氺
 U+9ECE	黎	⿱𥝢⿱人氺
 U+9ECF	黏	⿰黍占
