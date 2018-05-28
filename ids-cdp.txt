@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2017 CJKVI Database
+# Copyright (c) 2014-2018 CJKVI Database
 # Based on CHISE IDS Database
 ;; -*- coding: utf-8-mcs-er -*-
 U+03B1	α	α
@@ -28854,7 +28854,7 @@ U+20305	𠌅	⿰亻茤
 U+20306	𠌆	⿱全&CDP-87FE;
 U+20307	𠌇	⿰亻郎
 U+20308	𠌈	⿳亼从𠕁
-U+20309	𠌉	⿱⿵人土美
+U+20309	𠌉	⿳⿵人土䒑夫
 U+2030A	𠌊	⿺來巴
 U+2030B	𠌋	⿰俗卂
 U+2030C	𠌌	⿰亻𡨝
