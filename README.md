@@ -80,7 +80,7 @@ should be used.
   on [CHISE project](http://www.chise.org/), and is not restricted to
   GPLv2 license.
 
-* All other data are distributed uner GPLv2.
+* All other data are distributed under GPLv2.
 
 ## Author
 
